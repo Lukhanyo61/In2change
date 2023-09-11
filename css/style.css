@@ -638,7 +638,8 @@ span.rise-shake {
 
   @media (max-width: 410px) {
     #modal320{
-       margin-left: 200px; 
+       margin-left: 400px; 
+       width: 220px;
        
     }
 }
