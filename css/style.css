@@ -634,3 +634,10 @@ span.rise-shake {
     100% { transform: translateY(0) rotate(0) }
   }
   
+
+
+  @media (min-width: 320px) {
+    #modal320{
+       margin-left: 200px; 
+    }
+}
