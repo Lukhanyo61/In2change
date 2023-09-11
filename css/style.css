@@ -643,3 +643,11 @@ span.rise-shake {
        
     }
 }
+
+@media (max-width: 380px) {
+    #modal320{
+       margin-left: 400px; 
+       width: 270px;
+       
+    }
+}
