@@ -661,3 +661,25 @@ span.rise-shake {
        
     }
 }
+
+@media (max-width: 380px) {
+    #belle{
+ 
+   width: 70px;
+       
+    }
+}
+
+@media (max-width: 1025px) {
+    #modal320{
+ width: 480px;
+   position: relative; left: -273px;       
+    }
+}
+
+@media (max-width: 1445px) {
+    #modal320{
+ width: 480px;
+   position: relative; left: -273px;       
+    }
+}
