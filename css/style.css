@@ -683,3 +683,11 @@ span.rise-shake {
    position: relative; left: -273px;       
     }
 }
+
+@media (max-width: 425px) {
+    #modal-home{
+     width: 200px;
+    }
+}
+
+
